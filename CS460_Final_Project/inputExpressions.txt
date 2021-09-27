@@ -1,0 +1,27 @@
+def arithmetics():
+    a = 5 + 6
+    b = 2 * 3
+    print a - b
+    c = 3 / 1
+
+arithmetics()
+
+def ifStatements():
+    a = 0
+    b = 1
+    if a > b:
+        print "this should not happen"
+    if not a:
+        print "this should print"
+
+ifStatements()
+
+def ForLoops():
+    for i in range(5):
+        print i
+        for j in range(4):
+            print j
+
+
+
+ForLoops()

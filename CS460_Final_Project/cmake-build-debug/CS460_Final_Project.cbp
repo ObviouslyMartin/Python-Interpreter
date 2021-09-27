@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS460_Final_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS460_Final_Project">
+				<Option output="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/CS460_Final_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS460_Final_Project"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS460_Final_Project/fast">
+				<Option output="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/CS460_Final_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS460_Final_Project/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/CMakeLists.txt">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Expr.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Expr.hpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Makefile">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Parser.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Parser.hpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/README.txt">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Statements.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Statements.hpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/SymTab.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/SymTab.hpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Token.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Token.hpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Tokenizer.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/Tokenizer.hpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/input2.txt">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/inputExpressions.txt">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/main.cpp">
+			<Option target="CS460_Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/notforyou/Documents/Spring2019/cs460/FinalProject/CS460_Final_Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

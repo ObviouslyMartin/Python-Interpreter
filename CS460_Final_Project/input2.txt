@@ -1,0 +1,25 @@
+def main(a, b, c):
+    print a
+    print b
+    print c
+
+main(1, 2, 3)
+main(4, 5, 6)
+def foo():
+    a = 0
+    b = 1
+    c = a and b
+    d = a or b
+    e = not b
+    f = 5 > 1 and 6 < 4
+    print a, b, c, d, e, "this is a string", f
+
+foo()
+def arrayFunction():
+    a = [1, 2, 3]
+    b = len(a)
+    print b
+    a.append(4)
+    a.pop(2)
+
+arrayFunction()
